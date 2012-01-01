@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote fetch="git://github.com/TI-OpenLink/" push="git@github.com:TI-OpenLink/" name="github"/>
+
+	<default remote="github" revision="ics"/>
+	
+	<project name="wl12xx" path="workspace/wlan/wl12xx" revision="r5_3.2"/>
+	<project name="compat" path="workspace/wlan/compat" revision="master"/>
+	<project name="compat-wireless" path="workspace/wlan/compat-wireless" revision="master"/>
+
+	<project name="wl12xx_ko_installer" path="workspace/mydroid/hardware/wlan/ko" revision="android"/>
+	<project name="wl12xx_target_scripts" path="workspace/mydroid/hardware/wlan/scripts" revision="android"/>
+	
+	<project name="hostap" path="workspace/mydroid/external/wpa_supplicant_8" revision="p-ics-mr0"/>
+	<project name="ti-utils" path="workspace/mydroid/external/ti-utils" revision="ics"/>
+	<project name="iw" path="workspace/mydroid/external/iw" revision="ics"/>
+	<project name="libnl" path="workspace/mydroid/external/libnl" revision="ics"/>
+</manifest>
