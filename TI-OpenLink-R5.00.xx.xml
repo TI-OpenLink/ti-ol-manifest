@@ -4,15 +4,15 @@
 
 	<default remote="TI-OpenLink"/>
 	
-	<project name="wl12xx" path="workspace/wl12xx" revision="r5_3.2"/>
-	<project name="compat" path="workspace/compat" revision="master"/>
-	<project name="compat-wireless" path="workspace/compat-wireless" revision="master"/>
+	<project name="wl12xx" path="wl12xx" revision="r5_3.2"/>
+	<project name="compat" path="compat" revision="master"/>
+	<project name="compat-wireless" path="compat-wireless" revision="master"/>
 
-	<project name="wl12xx_ko_installer" path="workspace/mydroid/hardware/wlan/ko" revision="master"/>
-	<project name="wl12xx_target_scripts" path="workspace/mydroid/hardware/wlan/scripts" revision="master"/>
+	<project name="wl12xx_ko_installer" path="wl12xx_ko_installer" revision="master"/>
+	<project name="wl12xx_target_scripts" path="wl12xx_target_scripts" revision="master"/>
 	
-	<project name="hostap" path="workspace/mydroid/external/wpa_supplicant_8" revision="p-ics-mr0"/>
-	<project name="ti-utils" path="workspace/mydroid/external/ti-utils" revision="ics"/>
-	<project name="iw" path="workspace/mydroid/external/iw" revision="ics"/>
-	<project name="libnl" path="workspace/mydroid/system/core" revision="ics"/>
+	<project name="hostap" path="hostap" revision="p-ics-mr0"/>
+	<project name="ti-utils" path="ti-utils" revision="ics"/>
+	<project name="iw" path="iw" revision="ics"/>
+	<project name="libnl" path="libnl" revision="ics"/>
 </manifest>
