@@ -10,7 +10,7 @@
   <project name="iw" path="workspace/mydroid/external/iw" revision="f39c909796134411a3785d2f777210ec4c841967"/>
   <project name="libnl" path="workspace/mydroid/system/core" revision="a45e97856b23ca1af1950cbdc9b3736b9f04d305"/>
   <project name="ti-utils" path="workspace/mydroid/external/ti-utils" revision="16bf92c7f1bf1d4d4f7bb775ec7da2f7d3a53085"/>
-  <project name="wl12xx" path="workspace/wl12xx" revision="4b1916e7162fc89d3898b7a5952b79ae6c11f683"/>
+  <project name="wl12xx" path="workspace/wl12xx" revision="63ca34a9d332130361f8344871c52db8af2ca2d8"/>
   <project name="wl12xx_ko_installer" path="workspace/mydroid/hardware/wlan/ko" revision="5db649cb691ec2f1d75d8d21504dfdc32ec04c4c"/>
   <project name="wl12xx_target_scripts" path="workspace/mydroid/hardware/wlan/scripts" revision="60bc94f102d3493187d213d5f72dd962774bac70"/>
 </manifest>
