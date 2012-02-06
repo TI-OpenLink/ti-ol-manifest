@@ -6,7 +6,7 @@
   
   <project name="compat" path="workspace/compat" revision="984ab77279488f3fea4436da76c0f81a618cef1b"/>
   <project name="compat-wireless" path="workspace/compat-wireless" revision="0c2bd2d36fdcd565ab807fa96066883a3abfaa90"/>
-  <project name="hostap" path="workspace/mydroid/external/wpa_supplicant_8" revision="a5da6a5c25b8acccb110ebc0551726d04b718d0a"/>
+  <project name="hostap" path="workspace/mydroid/external/wpa_supplicant_8" revision="80b748fc11dc2575b7007830ebdf308190bd12b6"/>
   <project name="iw" path="workspace/mydroid/external/iw" revision="f39c909796134411a3785d2f777210ec4c841967"/>
   <project name="libnl" path="workspace/mydroid/system/core" revision="a45e97856b23ca1af1950cbdc9b3736b9f04d305"/>
   <project name="ti-utils" path="workspace/mydroid/external/ti-utils" revision="16bf92c7f1bf1d4d4f7bb775ec7da2f7d3a53085"/>
