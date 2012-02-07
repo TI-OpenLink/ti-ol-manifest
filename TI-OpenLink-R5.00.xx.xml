@@ -11,7 +11,7 @@
 	<project name="wl12xx_ko_installer" path="workspace/mydroid/hardware/wlan/ko" revision="master"/>
 	<project name="wl12xx_target_scripts" path="workspace/mydroid/hardware/wlan/scripts" revision="master"/>
 	
-	<project name="hostap" path="workspace/mydroid/external/wpa_supplicant_8" revision="upstream-android"/>
+	<project name="hostap" path="workspace/mydroid/external/wpa_supplicant_8" revision="p-ics-mr0"/>
 	<project name="ti-utils" path="workspace/mydroid/external/ti-utils" revision="ics"/>
 	<project name="iw" path="workspace/mydroid/external/iw" revision="ics"/>
 	<project name="libnl" path="workspace/mydroid/system/core" revision="ics"/>
