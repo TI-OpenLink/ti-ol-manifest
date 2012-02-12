@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote fetch="git://github.com/TI-OpenLink/" push="ssh://github.com/TI-OpenLink/" name="TI-OpenLink"/>
-	<remote fetch="ssh://github.com/TI-OpenLink/" push="ssh://github.com/TI-OpenLink/" name="TI-OpenLink-secured"/>
-        <remote fetch="git://github.com/mcgrof" name="mcgrof"/>
-
-	<project name="wl18xx" path="wl18xx" remote="TI-OpenLink-secured" revision="master"/>
-	<project name="compat" path="compat" remote="TI-OpenLink" revision="master"/>
-	<project name="compat-wireless" path="compat-wireless" remote="TI-OpenLink" revision="wlcore"/>
+  <remote fetch="git://github.com/TI-OpenLink/" name="TI-OpenLink"/>
+  <remote fetch="git@github.com:TI-OpenLink/" name="TI-OpenLink.secured"/>
+  <remote fetch="git://github.com/mcgrof" name="mcgrof"/>
+  
+  <project name="compat" remote="TI-OpenLink" revision="984ab77279488f3fea4436da76c0f81a618cef1b"/>
+  <project name="compat-wireless" remote="TI-OpenLink" revision="ac1aae3cf10a390f8783f1d21867e716f97c9b08"/>
+  <project name="wl18xx" remote="TI-OpenLink" revision="c99d64f3170487903205a4d88e6c87f235c49ea0"/>
 </manifest>
