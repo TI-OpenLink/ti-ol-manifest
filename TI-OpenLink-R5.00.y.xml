@@ -6,11 +6,11 @@
   
   <project name="compat" path="workspace/compat" revision="984ab77279488f3fea4436da76c0f81a618cef1b"/>
   <project name="compat-wireless" path="workspace/compat-wireless" revision="0c2bd2d36fdcd565ab807fa96066883a3abfaa90"/>
-  <project name="hostap" path="workspace/mydroid/external/wpa_supplicant_8" revision="c9fb3ba5ed8b5e72066b2c2f9675f5d4cc1b005a"/>
+  <project name="hostap" path="workspace/mydroid/external/wpa_supplicant_8" revision="4821f7c2c88936b806910078f269e6c3bd7529e0"/>
   <project name="iw" path="workspace/mydroid/external/iw" revision="f39c909796134411a3785d2f777210ec4c841967"/>
   <project name="libnl" path="workspace/mydroid/system/core" revision="a45e97856b23ca1af1950cbdc9b3736b9f04d305"/>
   <project name="ti-utils" path="workspace/mydroid/external/ti-utils" revision="6f5d26012c63e1ff2e653c7a4226167452015dc6"/>
-  <project name="wl12xx" path="workspace/wl12xx" revision="32a561e1d713e33f4c979ad447ec45fb92133bac"/>
+  <project name="wl12xx" path="workspace/wl12xx" revision="1c32fe6c5f842903140272038e1e7f82bfd06473"/>
   <project name="wl12xx_ko_installer" path="workspace/mydroid/hardware/wlan/ko" revision="5db649cb691ec2f1d75d8d21504dfdc32ec04c4c"/>
   <project name="wl12xx_target_scripts" path="workspace/mydroid/hardware/wlan/scripts" revision="f7f6131c5159fef4963a7423571f1b6e0fcc97ba"/>
 </manifest>
