@@ -3,9 +3,6 @@
 	<remote fetch="git://github.com/TI-OpenLink/" name="TI-OpenLink"/>
 	
   
-	<remote fetch="ssh://github.com/TI-OpenLink/" name="TI-OpenLink-secured"/>
-	
-  
 	<project name="18xx-ti-utils" path="external/ti-utils" remote="TI-OpenLink" revision="bb7c9fb8d6853cd7daddc65a02e1206413b9b498"/>
 	
   
@@ -21,7 +18,7 @@
 	<project name="wl12xx_target_scripts" path="external/wlcore_target_scripts" remote="TI-OpenLink" revision="b0d793bf2d4e510965917e9ac9fc036ba37d472e"/>
 	
   
-	<project name="wl18xx_fw" path="external/wl18xx_fw" remote="TI-OpenLink-secured" revision="aaede060cd46ef8c27a4ca2753ed6f0d818188a6"/>
+	<project name="wl18xx_fw" path="external/wl18xx_fw" remote="TI-OpenLink" revision="aaede060cd46ef8c27a4ca2753ed6f0d818188a6"/>
 	
 
 </manifest>

@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="git://github.com/TI-OpenLink/" name="TI-OpenLink"/>
-  <remote fetch="ssh://github.com/TI-OpenLink/" name="TI-OpenLink-secured"/>
   <remote fetch="git://github.com/mcgrof" name="mcgrof"/>
   
   <project name="compat" remote="TI-OpenLink" revision="f7778a7866478e79e8352585fde33623c71b23b1"/>
   <project name="compat-wireless" remote="TI-OpenLink" revision="ac1aae3cf10a390f8783f1d21867e716f97c9b08"/>
-  <project name="wl18xx" remote="TI-OpenLink-secured" revision="978e7c3e077bd8e11d3b96afcbe89ad461b56ce7"/>
+  <project name="wl18xx" remote="TI-OpenLink" revision="24c27a36a6d4f034cad803bb798da7c0d542b177"/>
 </manifest>
