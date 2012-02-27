@@ -14,5 +14,4 @@
 	<project name="hostap" path="workspace/mydroid/external/wpa_supplicant_8" revision="p-ics-mr0"/>
 	<project name="ti-utils" path="workspace/mydroid/external/ti-utils" revision="ics"/>
 	<project name="iw" path="workspace/mydroid/external/iw" revision="ics"/>
-	<project name="libnl" path="workspace/mydroid/system/core" revision="ics"/>
 </manifest>
