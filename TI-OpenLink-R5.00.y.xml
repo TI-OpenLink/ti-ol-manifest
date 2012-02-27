@@ -8,7 +8,6 @@
   <project name="compat-wireless" path="workspace/compat-wireless" revision="0c2bd2d36fdcd565ab807fa96066883a3abfaa90"/>
   <project name="hostap" path="workspace/mydroid/external/wpa_supplicant_8" revision="e7a682ed6e119175462ab4bd553ff472adae85f7"/>
   <project name="iw" path="workspace/mydroid/external/iw" revision="f39c909796134411a3785d2f777210ec4c841967"/>
-  <project name="libnl" path="workspace/mydroid/system/core" revision="a45e97856b23ca1af1950cbdc9b3736b9f04d305"/>
   <project name="ti-utils" path="workspace/mydroid/external/ti-utils" revision="4dcf1966980e7596173816e15ee6ada02b91ce2b"/>
   <project name="wl12xx" path="workspace/wl12xx" revision="fd0028d87effc3d4a4960ec8a20726f65112fe49"/>
   <project name="wl12xx_ko_installer" path="workspace/mydroid/hardware/wlan/ko" revision="5db649cb691ec2f1d75d8d21504dfdc32ec04c4c"/>
