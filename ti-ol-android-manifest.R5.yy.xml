@@ -18,7 +18,7 @@
 	<project name="wl12xx_target_scripts" path="external/wlcore_target_scripts" remote="TI-OpenLink" revision="18dc24f6bf55b34765673ad595286eb720fcb941"/>
 	
   
-	<project name="wl18xx_fw" path="external/wl18xx_fw" remote="TI-OpenLink" revision="f20abbbb3d338d2e6681a55417dec357e4efd6f3"/>
+	<project name="wl18xx_fw" path="external/wl18xx_fw" remote="TI-OpenLink" revision="17b39e74f4edb1c212a16c77ac92ee65fa64ec8f"/>
 	
 
 </manifest>
