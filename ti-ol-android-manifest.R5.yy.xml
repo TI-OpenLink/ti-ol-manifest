@@ -6,7 +6,7 @@
 	<project name="18xx-ti-utils" path="external/ti-utils" remote="TI-OpenLink" revision="bb7c9fb8d6853cd7daddc65a02e1206413b9b498"/>
 	
   
-	<project name="hostap" path="external/wpa_supplicant_8" remote="TI-OpenLink" revision="938f502fdabf368c85db6c2c2db7c1f1cb6b9e24"/>
+	<project name="hostap" path="external/wpa_supplicant_8" remote="TI-OpenLink" revision="fa8110faf631d93471399724468743d985e9fe37"/>
 	
   
 	<project name="iw" path="external/iw" remote="TI-OpenLink" revision="f39c909796134411a3785d2f777210ec4c841967"/>
