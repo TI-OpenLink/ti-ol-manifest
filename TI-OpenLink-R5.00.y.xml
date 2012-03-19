@@ -9,7 +9,7 @@
   <project name="hostap" path="workspace/mydroid/external/wpa_supplicant_8" revision="f6c32c479efa483592d8233e2736c13ee19f7738"/>
   <project name="iw" path="workspace/mydroid/external/iw" revision="f39c909796134411a3785d2f777210ec4c841967"/>
   <project name="ti-utils" path="workspace/mydroid/external/ti-utils" revision="1b6d94b700d80c7d618436994611e1393935d86f"/>
-  <project name="wl12xx" path="workspace/wl12xx" revision="3f56b3e81227c144ee1da74623233d299ac67025"/>
+  <project name="wl12xx" path="workspace/wl12xx" revision="bd9c683cf36a4c28f3ac73b49125c3bf58a66975"/>
   <project name="wl12xx_ko_installer" path="workspace/mydroid/hardware/wlan/ko" revision="5db649cb691ec2f1d75d8d21504dfdc32ec04c4c"/>
   <project name="wl12xx_target_scripts" path="workspace/mydroid/hardware/wlan/scripts" revision="f7f6131c5159fef4963a7423571f1b6e0fcc97ba"/>
 </manifest>
