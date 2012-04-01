@@ -3,7 +3,7 @@
   <remote fetch="git://github.com/TI-OpenLink/" name="TI-OpenLink"/>
   <remote fetch="git://github.com/mcgrof" name="mcgrof"/>
   
-  <project name="compat" remote="TI-OpenLink" revision="f7778a7866478e79e8352585fde33623c71b23b1"/>
-  <project name="compat-wireless" remote="TI-OpenLink" revision="2d82007ab400ac4ecbe926b0833b7b20113e146d"/>
-  <project name="wl18xx" remote="TI-OpenLink" revision="1a2157bf42433a941621ec9a1b3723e703a5c486"/>
+  <project name="compat" remote="TI-OpenLink" revision="984ab77279488f3fea4436da76c0f81a618cef1b"/>
+  <project name="compat-wireless" remote="TI-OpenLink" revision="0324b2a7f96955c7db304147cf8da83c89eb818c"/>
+  <project name="wl12xx" remote="TI-OpenLink" revision="5f26e74f0580f1f5137b7bfedb8396c33acdd597"/>
 </manifest>
