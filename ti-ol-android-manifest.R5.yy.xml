@@ -9,7 +9,7 @@
 	<project name="iw" path="external/iw" remote="TI-OpenLink" revision="f39c909796134411a3785d2f777210ec4c841967"/>
 	
   
-	<project name="ti-utils" path="external/ti-utils" remote="TI-OpenLink" revision="a42f8810a536c773d9445dd46ef4bfb5f4307f9a"/>
+	<project name="ti-utils" path="external/ti-utils" remote="TI-OpenLink" revision="ae7600493925da43ff77e20cc147dfe6d6529835"/>
 	
   
 	<project name="wl12xx_ko_installer" path="external/wl12xx_ko_installer" remote="TI-OpenLink" revision="5db649cb691ec2f1d75d8d21504dfdc32ec04c4c"/>
