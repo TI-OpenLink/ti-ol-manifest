@@ -3,7 +3,7 @@
 	<remote fetch="git://github.com/TI-OpenLink/" name="TI-OpenLink"/>
 	
   
-	<project name="18xx-ti-utils" path="external/ti-utils" remote="TI-OpenLink" revision="ee74f938755a241d960cc0018cbf511687fdcd2b"/>
+	<project name="18xx-ti-utils" path="external/ti-utils" remote="TI-OpenLink" revision="3976825ceb587e3f35a7a3426a8b2e1fba7b5799"/>
 	
   
 	<project name="hostap" path="external/wpa_supplicant_8" remote="TI-OpenLink" revision="9291edd55c1a51bb47123e5326925d8422f0ddda"/>
