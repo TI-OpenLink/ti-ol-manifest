@@ -15,7 +15,7 @@
 	<project name="wl12xx_ko_installer" path="external/wl12xx_ko_installer" remote="TI-OpenLink" revision="5db649cb691ec2f1d75d8d21504dfdc32ec04c4c"/>
 	
   
-	<project name="wl12xx_target_scripts" path="external/wl12xx_target_scripts" remote="TI-OpenLink" revision="a1558e4ba81409d622a7e0314b917863de90fd64"/>
+	<project name="wl12xx_target_scripts" path="external/wl12xx_target_scripts" remote="TI-OpenLink" revision="3687a68db996268d5adda3a20e4bff42edf68cf9"/>
 	
 
 </manifest>
