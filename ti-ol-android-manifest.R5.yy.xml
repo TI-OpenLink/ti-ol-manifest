@@ -15,10 +15,10 @@
 	<project name="wl12xx_ko_installer" path="external/wlcore_ko_installer" remote="TI-OpenLink" revision="fd30122fb86e6ad16b5295cef861d5aa2999a19f"/>
 	
   
-	<project name="wl12xx_target_scripts" path="external/wlcore_target_scripts" remote="TI-OpenLink" revision="d6b0ba45a14804c8e0fbf4e2d43100fb09e951f8"/>
+	<project name="wl12xx_target_scripts" path="external/wlcore_target_scripts" remote="TI-OpenLink" revision="88c7300b76c547e9fd3d8d9110674c7e9fc64caf"/>
 	
   
-	<project name="wl18xx_fw" path="external/wl18xx_fw" remote="TI-OpenLink" revision="ab262a4f9080cef3408484c5512e4b73b8d54ae7"/>
+	<project name="wl18xx_fw" path="external/wl18xx_fw" remote="TI-OpenLink" revision="c773c4dc8ecde9401c6b670a9b4ba993d8acda1b"/>
 	
 
 </manifest>
