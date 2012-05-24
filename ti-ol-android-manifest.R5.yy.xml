@@ -15,7 +15,7 @@
 	<project name="wl12xx_ko_installer" path="external/wlcore_ko_installer" remote="TI-OpenLink" revision="fd30122fb86e6ad16b5295cef861d5aa2999a19f"/>
 	
   
-	<project name="wl12xx_target_scripts" path="external/wlcore_target_scripts" remote="TI-OpenLink" revision="1036222ae31bcef732fa2a806ed8b61c2b52a718"/>
+	<project name="wl12xx_target_scripts" path="external/wlcore_target_scripts" remote="TI-OpenLink" revision="9f67557e8e8efa405dc185cdc169dce270fe4370"/>
 	
   
 	<project name="wl18xx_fw" path="external/wl18xx_fw" remote="TI-OpenLink" revision="5932ea228d0cc6012c0f0eaf0f4132cef14d0c75"/>
