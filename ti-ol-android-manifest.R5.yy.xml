@@ -6,7 +6,7 @@
 	<project name="18xx-ti-utils" path="external/ti-utils" remote="TI-OpenLink" revision="5f2f54003c29cf8ae4db39a6afff3c79d6213fa8"/>
 	
   
-	<project name="hostap" path="external/wpa_supplicant_8" remote="TI-OpenLink" revision="5e990c1678ef558ab325c899e0a2bd7acffb4b34"/>
+	<project name="hostap" path="external/wpa_supplicant_8" remote="TI-OpenLink" revision="c277b38a9a48be7cc06f73c94322e1f1ec645f47"/>
 	
   
 	<project name="iw" path="external/iw" remote="TI-OpenLink" revision="f39c909796134411a3785d2f777210ec4c841967"/>
@@ -15,10 +15,10 @@
 	<project name="wl12xx_ko_installer" path="external/wlcore_ko_installer" remote="TI-OpenLink" revision="fd30122fb86e6ad16b5295cef861d5aa2999a19f"/>
 	
   
-	<project name="wl12xx_target_scripts" path="external/wlcore_target_scripts" remote="TI-OpenLink" revision="9f67557e8e8efa405dc185cdc169dce270fe4370"/>
+	<project name="wl12xx_target_scripts" path="external/wlcore_target_scripts" remote="TI-OpenLink" revision="b1e99491da293e77edb72479e22edc74c5de5a50"/>
 	
   
-	<project name="wl18xx_fw" path="external/wl18xx_fw" remote="TI-OpenLink" revision="1b8f40f2da9b0e6dd637497dace441b1afc03eeb"/>
+	<project name="wl18xx_fw" path="external/wl18xx_fw" remote="TI-OpenLink" revision="8e6c19f12122b25c6c572faa0370a3bdca22ef4c"/>
 	
 
 </manifest>
