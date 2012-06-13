@@ -4,6 +4,6 @@
         <remote fetch="git://github.com/mcgrof" name="mcgrof"/>
 
 	<project name="wl18xx" path="wl18xx" remote="TI-OpenLink" revision="internal"/>
-	<project name="compat" path="compat" remote="TI-OpenLink" revision="18xx_upstream"/>
-	<project name="compat-wireless" path="compat-wireless" remote="TI-OpenLink" revision="18xx_upstream"/>
+	<project name="compat" path="compat" remote="TI-OpenLink" revision="internal"/>
+	<project name="compat-wireless" path="compat-wireless" remote="TI-OpenLink" revision="internal"/>
 </manifest>
