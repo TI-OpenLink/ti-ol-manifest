@@ -3,13 +3,13 @@
 	<remote fetch="git://github.com/TI-OpenLink/" name="TI-OpenLink"/>
 	
   
-	<project name="hostap" path="external/wpa_supplicant_8" remote="TI-OpenLink" revision="de516c823a06b784b127512a9db49782df0ba93a"/>
+	<project name="hostap" path="external/wpa_supplicant_8" remote="TI-OpenLink" revision="0f634f21bb90a207881fe1d93627579df53085a9"/>
 	
   
 	<project name="iw" path="external/iw" remote="TI-OpenLink" revision="f39c909796134411a3785d2f777210ec4c841967"/>
 	
   
-	<project name="ti-utils" path="external/ti-utils" remote="TI-OpenLink" revision="b42044175ca7262cd3e8f76d59dce46fe857ccb6"/>
+	<project name="ti-utils" path="external/ti-utils" remote="TI-OpenLink" revision="ccc55461862e5b664583dca48e73c7a4ecdf5189"/>
 	
   
 	<project name="wl12xx_ko_installer" path="external/wl12xx_ko_installer" remote="TI-OpenLink" revision="5db649cb691ec2f1d75d8d21504dfdc32ec04c4c"/>
