@@ -5,5 +5,5 @@
   
   <project name="compat" remote="TI-OpenLink" revision="c37c46c4ab5085ba50f650d15854404983b8d09b"/>
   <project name="compat-wireless" remote="TI-OpenLink" revision="43e2d84dfc2962f2405a01f4a413e0b175d29241"/>
-  <project name="wl18xx" remote="TI-OpenLink" revision="0733659af31fd5bf6128d4ba2138c10ceb077fdc"/>
+  <project name="wl18xx" remote="TI-OpenLink" revision="d531a1437127114cf988f9b9e6a4eaad4279356f"/>
 </manifest>
