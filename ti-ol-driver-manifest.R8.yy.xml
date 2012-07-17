@@ -4,6 +4,6 @@
   <remote fetch="git://github.com/mcgrof" name="mcgrof"/>
   
   <project name="compat" remote="TI-OpenLink" revision="c37c46c4ab5085ba50f650d15854404983b8d09b"/>
-  <project name="compat-wireless" remote="TI-OpenLink" revision="43e2d84dfc2962f2405a01f4a413e0b175d29241"/>
-  <project name="wl18xx" remote="TI-OpenLink" revision="d531a1437127114cf988f9b9e6a4eaad4279356f"/>
+  <project name="compat-wireless" remote="TI-OpenLink" revision="8a2774c2877413a3c3da0c4d8555e5d3e50dd655"/>
+  <project name="wl18xx" remote="TI-OpenLink" revision="1fc2ed579521dfb4f0698d2b402c0a36340db277"/>
 </manifest>
