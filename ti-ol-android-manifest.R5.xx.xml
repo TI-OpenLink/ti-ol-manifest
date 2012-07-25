@@ -3,8 +3,8 @@
 	<remote fetch="git://github.com/TI-OpenLink/" push="ssh://github.com/TI-OpenLink/" name="TI-OpenLink"/>
 
 	<project name="wl12xx_ko_installer" path="external/wl12xx_ko_installer" remote="TI-OpenLink" revision="master"/>
-	<project name="wl12xx_target_scripts" path="external/wl12xx_target_scripts" remote="TI-OpenLink" revision="master"/>
-	<project name="hostap" path="external/wpa_supplicant_8" remote="TI-OpenLink" revision="p-ics-mr0"/>
-	<project name="ti-utils" path="external/ti-utils" remote="TI-OpenLink" revision="ics"/>
+	<project name="wl12xx_target_scripts" path="external/wl12xx_target_scripts" remote="TI-OpenLink" revision="r5-jb"/>
+	<project name="hostap" path="external/wpa_supplicant_8" remote="TI-OpenLink" revision="jb_final"/>
+	<project name="ti-utils" path="external/ti-utils" remote="TI-OpenLink" revision="r5-jb"/>
 	<project name="iw" path="external/iw" remote="TI-OpenLink" revision="ics"/>
 </manifest>

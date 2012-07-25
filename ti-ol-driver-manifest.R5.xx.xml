@@ -3,7 +3,7 @@
 	<remote fetch="git://github.com/TI-OpenLink/" push="ssh://github.com/TI-OpenLink/" name="TI-OpenLink"/>
         <remote fetch="git://github.com/mcgrof" name="mcgrof"/>
 
-	<project name="wl12xx" path="wl12xx" remote="TI-OpenLink" revision="r5_3.2"/>
+	<project name="wl12xx" path="wl12xx" remote="TI-OpenLink" revision="r5_jb"/>
 	<project name="compat" path="compat" remote="TI-OpenLink" revision="master"/>
 	<project name="compat-wireless" path="compat-wireless" remote="TI-OpenLink" revision="master"/>
 </manifest>
