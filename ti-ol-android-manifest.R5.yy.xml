@@ -3,19 +3,19 @@
 	<remote fetch="git://github.com/TI-OpenLink/" name="TI-OpenLink"/>
 	
   
-	<project name="hostap" path="external/wpa_supplicant_8" remote="TI-OpenLink" revision="4d5aad711cb848968109d1dc1ac3bc3a1639d7bb"/>
+	<project name="hostap" path="external/wpa_supplicant_8" remote="TI-OpenLink" revision="5105ecb50f7afcb2f26bbc84141693214d86864f"/>
 	
   
 	<project name="iw" path="external/iw" remote="TI-OpenLink" revision="f39c909796134411a3785d2f777210ec4c841967"/>
 	
   
-	<project name="ti-utils" path="external/ti-utils" remote="TI-OpenLink" revision="3cf0c76edc74e63a967d2dcc46f7dc0d75d34779"/>
+	<project name="ti-utils" path="external/ti-utils" remote="TI-OpenLink" revision="4a56ff6e6cb21486523af91aa85840816d781629"/>
 	
   
 	<project name="wl12xx_ko_installer" path="external/wl12xx_ko_installer" remote="TI-OpenLink" revision="5db649cb691ec2f1d75d8d21504dfdc32ec04c4c"/>
 	
   
-	<project name="wl12xx_target_scripts" path="external/wl12xx_target_scripts" remote="TI-OpenLink" revision="02dd217301f35edd9a630e6e601783f9d0204f4d"/>
+	<project name="wl12xx_target_scripts" path="external/wl12xx_target_scripts" remote="TI-OpenLink" revision="0cf688e7339c44b60ec06139de251c5e6f4ccded"/>
 	
 
 </manifest>
