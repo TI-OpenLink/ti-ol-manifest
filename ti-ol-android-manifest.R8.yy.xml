@@ -3,7 +3,7 @@
 	<remote fetch="git://github.com/TI-OpenLink/" name="TI-OpenLink"/>
 	
   
-	<project groups="name:18xx-ti-utils,path:external/ti-utils" name="18xx-ti-utils" path="external/ti-utils" remote="TI-OpenLink" revision="2165d58d2592d5b9a22fe9372e4d0a23686f535d"/>
+	<project groups="name:18xx-ti-utils,path:external/ti-utils" name="18xx-ti-utils" path="external/ti-utils" remote="TI-OpenLink" revision="f462b0dccd88c2f94556d90cf4f58023c479ccde"/>
 	
   
 	<project groups="path:external/wpa_supplicant_8,name:hostap" name="hostap" path="external/wpa_supplicant_8" remote="TI-OpenLink" revision="492af4e4ecb4f15d23cf3d64ea87a2e02ee3d9ca"/>
@@ -15,7 +15,7 @@
 	<project groups="path:external/wlcore_ko_installer,name:wl12xx_ko_installer" name="wl12xx_ko_installer" path="external/wlcore_ko_installer" remote="TI-OpenLink" revision="fd30122fb86e6ad16b5295cef861d5aa2999a19f"/>
 	
   
-	<project groups="path:external/wlcore_target_scripts,name:wl12xx_target_scripts" name="wl12xx_target_scripts" path="external/wlcore_target_scripts" remote="TI-OpenLink" revision="907607b7b7a68a21c4e831720d00579804b24cce"/>
+	<project groups="path:external/wlcore_target_scripts,name:wl12xx_target_scripts" name="wl12xx_target_scripts" path="external/wlcore_target_scripts" remote="TI-OpenLink" revision="00886218ff61f02516ac5737dcac3d076652d8fd"/>
 	
   
 	<project groups="name:wl18xx_fw,path:external/wl18xx_fw" name="wl18xx_fw" path="external/wl18xx_fw" remote="TI-OpenLink" revision="b0d18c2dc5e2dc38471cf3c826bc97f864c5eea3"/>
